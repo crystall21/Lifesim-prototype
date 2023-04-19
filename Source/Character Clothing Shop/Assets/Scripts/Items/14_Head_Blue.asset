@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee454c7da9cab62438af63a13e2aa631, type: 3}
+  m_Name: 14_Head_Blue
+  m_EditorClassIdentifier: 
+  id: 14
+  item_name: Blue Hair
+  description: Blue hair dye
+  icon: {fileID: 21300000, guid: d367b9381f16eec4faf95da43719f61b, type: 3}
+  selling_price: 1
+  type: 2
+  clothing_animations:
+  - {fileID: 7400000, guid: 0397f01d6c73b2641bad7bac861f15ac, type: 2}
+  - {fileID: 7400000, guid: 14cfc3814dbb12b418303fef8954d946, type: 2}
+  Clothing_part: 0

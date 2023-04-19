@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02164431146b87f46b556e148e1d16db, type: 3}
+  m_Name: Clothes_Shop
+  m_EditorClassIdentifier: 
+  shop_Name: Clothing Store
+  shop_items:
+  - item: {fileID: 11400000, guid: ffa294a3e1eed184ebb8336470d83af7, type: 2}
+    price: 5
+  - item: {fileID: 11400000, guid: 527d809c31ed49e418459517534f7939, type: 2}
+    price: 5
+  - item: {fileID: 11400000, guid: 3ca93b59bfcb6074db4501b858336c5e, type: 2}
+    price: 5
+  - item: {fileID: 11400000, guid: f7fbcbd1781401e45bcbde7ffd9829d4, type: 2}
+    price: 100
+  - item: {fileID: 11400000, guid: b32ecffe4584c444ea7b47d61833843b, type: 2}
+    price: 100
+  - item: {fileID: 11400000, guid: c2724a33ffad22743a5610cad922dfb9, type: 2}
+    price: 100
+  - item: {fileID: 11400000, guid: 5e53e877d9582044d86da646ac8336d4, type: 2}
+    price: 200
+  - item: {fileID: 11400000, guid: 11de47677dcff8d45815a7379b3adcd1, type: 2}
+    price: 200
+  - item: {fileID: 11400000, guid: ab7eb43288842ca4d9db60bf04ba81eb, type: 2}
+    price: 200
+  - item: {fileID: 11400000, guid: e23fa26ae1884614c865d65bfd7cf758, type: 2}
+    price: 300
+  - item: {fileID: 11400000, guid: fa53b8aa93c127644b6ff023e42371bc, type: 2}
+    price: 300
+  - item: {fileID: 11400000, guid: d017f3305389eee4284f38c3e4cc890d, type: 2}
+    price: 300
+  - item: {fileID: 11400000, guid: b643563c108411d4b8e1f0ac9c574fac, type: 2}
+    price: 500
+  - item: {fileID: 11400000, guid: 8df2cce99eed36947a192f23055466f8, type: 2}
+    price: 500
+  - item: {fileID: 11400000, guid: 318dda73ca0b8c946b623347dab29ef2, type: 2}
+    price: 500

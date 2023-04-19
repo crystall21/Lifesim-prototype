@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee454c7da9cab62438af63a13e2aa631, type: 3}
+  m_Name: 23_Torso_Pink
+  m_EditorClassIdentifier: 
+  id: 23
+  item_name: Pink Top
+  description: A pink top
+  icon: {fileID: 21300000, guid: 1ab401cce201bf64ca906837b8847915, type: 3}
+  selling_price: 1
+  type: 2
+  clothing_animations:
+  - {fileID: 7400000, guid: 1ca5ebadf22ef1442a4019d68fe96393, type: 2}
+  - {fileID: 7400000, guid: 1234e3e2ff0c2b944868b63398338561, type: 2}
+  Clothing_part: 1

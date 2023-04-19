@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee454c7da9cab62438af63a13e2aa631, type: 3}
+  m_Name: 12_Head_Green
+  m_EditorClassIdentifier: 
+  id: 12
+  item_name: Green Hair
+  description: Green hair dye
+  icon: {fileID: 21300000, guid: 1b53bd32e74fd70468adba409e7a7bff, type: 3}
+  selling_price: 1
+  type: 2
+  clothing_animations:
+  - {fileID: 7400000, guid: 1eb76d9e58b55894b914e1bac6bc3ef9, type: 2}
+  - {fileID: 7400000, guid: cc742ab04d23e0b4b9db4aa6d0398b55, type: 2}
+  Clothing_part: 0

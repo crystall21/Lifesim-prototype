@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee454c7da9cab62438af63a13e2aa631, type: 3}
+  m_Name: 13_Head_Pink
+  m_EditorClassIdentifier: 
+  id: 13
+  item_name: Pink Hair
+  description: Pink hair dye
+  icon: {fileID: 21300000, guid: b16f9dbea52d2f042b82b76372f162b7, type: 3}
+  selling_price: 1
+  type: 2
+  clothing_animations:
+  - {fileID: 7400000, guid: 1bedce03bc3bba245aee2f568a311405, type: 2}
+  - {fileID: 7400000, guid: 38418e2e565a02f42b59bb9b9e22b217, type: 2}
+  Clothing_part: 0

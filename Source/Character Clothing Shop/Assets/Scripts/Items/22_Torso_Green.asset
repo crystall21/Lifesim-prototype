@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee454c7da9cab62438af63a13e2aa631, type: 3}
+  m_Name: 22_Torso_Green
+  m_EditorClassIdentifier: 
+  id: 22
+  item_name: Green Top
+  description: A green top
+  icon: {fileID: 21300000, guid: ac8c7235882a18b428ee1f2d535163af, type: 3}
+  selling_price: 1
+  type: 2
+  clothing_animations:
+  - {fileID: 7400000, guid: 1f74988251bd50442b23a9fcf4f94efd, type: 2}
+  - {fileID: 7400000, guid: 2df022b4b3475824a9b35114e9e34eb7, type: 2}
+  Clothing_part: 1
